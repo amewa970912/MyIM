@@ -7,13 +7,12 @@
 	
 	<imNickName>我不是好人</imNickName>
 	
-	<imVip>true</imVip>
+	<imVip>是</imVip>
 	
-	<imBuddyList>buddylist</imBuddyList>
+	<imBuddyList>/</imBuddyList>
 	
-	<imHeadPortrait>imHeadPortrait</imHeadPortrait>
+	<imHeadPortrait>/UsersConfingure/965783535/image/cat.jpeg</imHeadPortrait>
 	
-	<imChatHistory>imChatHistory</imChatHistory>
-
+	<imChatHistory>/UsersConfingure/965783535/chathistory.txt</imChatHistory>
 	
-</User>
+/</User>
